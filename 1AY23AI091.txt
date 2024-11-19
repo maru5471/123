@@ -5,3 +5,10 @@ def rec(n):
         return n
     else:
         n*(rec(n-1))
+#odd numbers printing by nanda
+for(i=0;i<n;i++)
+{
+    if(n%%2==0)
+    print("this is an even number")
+    else(n)
+}
