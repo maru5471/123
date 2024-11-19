@@ -6,3 +6,4 @@ def rec(n):
     else:
         n*(rec(n-1))
 rec(10)
+pravith was here
