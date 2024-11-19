@@ -18,3 +18,4 @@ for(i=0;i<n;i++)
     print("this is an even number")
     else(n)
 }
+print
