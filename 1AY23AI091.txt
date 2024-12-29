@@ -8,7 +8,7 @@ def rec(n):
 <<<<<<< HEAD
 
 =======
-rec(10)
+rec(10) hi
 pravith was here
 >>>>>>> 4dd7df8294f4d1018c88a59f15e7d018fa1c6999
 #odd numbers printing by nanda
